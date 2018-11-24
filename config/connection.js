@@ -17,8 +17,6 @@ if (process.env.JAWSDB_URL) {
     })
 };
 
-mysql://bcvxbznufa0ozf0z:zvykz24gm48iaktw@bmsyhziszmhf61g1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/jdzozpdnahjaky3n
-
 // Make connection.
 connection.connect(function (err) {
     if (err) {
