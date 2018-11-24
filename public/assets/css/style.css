@@ -1,0 +1,9 @@
+body {
+    background-image: url('../images/burger.jpg');
+    background-repeat: repeat;
+    background-size: 25px;
+}
+
+#utensils-icon {
+    font-size: 300%;
+}
