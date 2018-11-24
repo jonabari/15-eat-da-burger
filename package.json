@@ -1,7 +1,6 @@
 {
   "name": "15-eat-da-burger",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
@@ -16,5 +15,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonabari/15-eat-da-burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonabari/15-eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/jonabari/15-eat-da-burger#readme",
+  "description": ""
 }
