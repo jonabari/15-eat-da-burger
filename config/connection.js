@@ -1,6 +1,8 @@
 // Set up MySQL connection.
 const mysql = require('mysql')
 
+var connection;
+
 if (process.env.JAWSDB_URL) {
     // Database is JawsDB on Heroku
     connection = mysql.createConnection(process.env.JAWSDB_URL);
